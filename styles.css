@@ -2,9 +2,24 @@
     background-color: beige;
 }
 
-h1 {
-    color: blue;
-    background-color: bisque;
+.title {
+    text-align: center;
+}
+
+.order-list {
+    text-align: center;
+    padding: 10px 10px;
+}
+
+.recipes {
+    display: inline-block;
+    padding: 10px;
+    border: 2px solid;
+}
+
+.recipes.link {
+    /* text-decoration: none;
+    text-decoration: ; */
 }
 
 h3 {
